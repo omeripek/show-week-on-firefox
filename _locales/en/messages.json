@@ -1,0 +1,14 @@
+{
+  "ic3Name": {
+    "message": "Show Week Number",
+    "description": "Name of the extension."
+  },
+  "ic3Desc": {
+    "message": "This app shows you the current week!", 
+    "description":"Description of the add-on."
+  },
+  "ic3Action": {
+    "message": "Show week!", 
+    "description":"tooltip"
+  }
+}

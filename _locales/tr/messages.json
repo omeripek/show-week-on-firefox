@@ -1,0 +1,14 @@
+{
+  "ic3Name": {
+    "message": "Hafta Numarasını Göster",
+    "description": "Eklenti Adı."
+  },
+  "ic3Desc": {
+    "message": "Bu eklenti size ilgili haftanın numarasını gösterir.", 
+    "description":"Eklenti açıklaması."
+  },
+  "ic3Action": {
+    "message": "Haftayı Göster!", 
+    "description":"tooltip"
+  }
+}
