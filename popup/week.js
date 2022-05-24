@@ -6,5 +6,5 @@ var days = Math.floor((currentDate - startDate) /
 var weekNumber = Math.ceil(
     (currentDate.getDay() + 1 + days) / 7);
 
-document.getElementById('currentDate').textContent = currentDate;
+document.getElementById('currentDate').textContent = currentDate.toISOString().split('T')[0];
 document.getElementById('week').textContent = weekNumber;
