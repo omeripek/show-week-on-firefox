@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "__MSG_ic3Name__",
   "description": "__MSG_ic3Desc__",
-  "version": "1.0",
+  "version": "1.1",
   "author": "Ömer İpek",
   "default_locale": "en",
 

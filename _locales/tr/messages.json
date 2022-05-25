@@ -4,7 +4,7 @@
     "description": "Eklenti Adı."
   },
   "ic3Desc": {
-    "message": "Bu eklenti size ilgili haftanın numarasını gösterir.", 
+    "message": "Bu eklenti size ilgili haftanın numarasını gösterir. Hafta numara sayısı.", 
     "description":"Eklenti açıklaması."
   },
   "ic3Action": {
