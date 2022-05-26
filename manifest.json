@@ -17,7 +17,7 @@
   },
 
   "browser_action": {
-    "default_icon": "icons/week-32.png",
+    "default_icon": "icons/week-48.png",
     "default_title": "__MSG_ic3Action__",
     "default_popup": "popup/week.html"
   }

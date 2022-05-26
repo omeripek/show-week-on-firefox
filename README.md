@@ -5,3 +5,6 @@ Show Week On Firefox
 
 ### Updated version 1.1
 Fixed date format.
+
+## To do list
+- Change icons to week numbers.
